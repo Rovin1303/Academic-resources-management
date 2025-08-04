@@ -32,10 +32,6 @@ app/
 ├─ src/test/java/... # Unit tests
 └─ build.gradle.kts # Gradle setup
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔧 Getting Started
