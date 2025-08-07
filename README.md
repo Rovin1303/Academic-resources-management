@@ -32,10 +32,6 @@ app/
 ├─ src/test/java/... # Unit tests
 └─ build.gradle.kts # Gradle setup
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔧 Getting Started
@@ -92,6 +88,6 @@ Jetpack libraries
 Open-source community contributions
 
 🔗 Contact
-Created by Lokesh Borse
+Created by Lokesh Borse,Rovin Dcosta and Aditya Mane
 🔗 GitHub Profile
 
